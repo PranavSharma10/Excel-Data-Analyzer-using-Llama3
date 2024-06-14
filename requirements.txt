@@ -1,0 +1,5 @@
+pandasai
+pandas
+streamlit
+dotenv
+os
