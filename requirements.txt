@@ -2,3 +2,4 @@ pandasai
 pandas
 streamlit
 python-dotenv
+PyYAML
