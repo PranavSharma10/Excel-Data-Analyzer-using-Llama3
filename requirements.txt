@@ -1,3 +1,4 @@
 pandasai
 pandas
 streamlit
+python-dotenv
