@@ -9,7 +9,7 @@ load_dotenv()
 api_base = os.getenv('API_BASE')
 
 model = LocalLLM(
-    api_base=api_base,
+    api_base= "http://localhost:11434/v1",
     model="llama3"
 )
 
